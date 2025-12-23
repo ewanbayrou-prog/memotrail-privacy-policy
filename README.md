@@ -1,80 +1,46 @@
-# memotrail-privacy-policy
-Privacy Policy for MemoTrail iOS app
-Last updated: December 2025
-
-MemoTrail (“the App”) is developed and operated by Ewan Bayrou (“we”, “us”, or “our”).
-
-Your privacy is important to us. This Privacy Policy explains how information is handled when you use the App.
-
----
-
-### 1. Data Collection
-
-MemoTrail **does not collect, store, or process any personal data**.
-
-The App can be used without creating an account and without providing any personal information.
-
----
-
-### 2. Game Center
-
-MemoTrail uses **Apple Game Center** to provide leaderboards and achievements.
-
-Game Center is operated by Apple. Any data related to Game Center (such as usernames, scores, or achievements) is managed by Apple in accordance with Apple’s Privacy Policy.
-
-We do not have access to personally identifiable Game Center information.
-
-Apple Privacy Policy:
-
-https://www.apple.com/privacy/
-
----
-
-### 3. In-App Purchases
-
-MemoTrail offers optional **in-app purchases** to unlock cosmetic items.
-
-All purchases are processed securely by Apple through the App Store.
-
-We do not collect or store any payment information.
-
----
-
-### 4. Analytics & Tracking
-
-MemoTrail:
-
-- does **not** use third-party analytics tools
-- does **not** track users
-- does **not** use advertising SDKs
-- does **not** use cookies
-
----
-
-### 5. Data Sharing
-
-Since no personal data is collected, **no data is shared with third parties**.
-
----
-
-### 6. Children’s Privacy
-
-MemoTrail does not knowingly collect any personal information from children.
-
----
-
-### 7. Changes to This Policy
-
-This Privacy Policy may be updated from time to time.
-
-Any changes will be reflected on this page.
-
----
-
-### 8. Contact
-
-If you have any questions about this Privacy Policy, you may contact:
-
-Ewan Bayrou
-
-Email: [ewanbayrou@icloud.com](mailto:ewanbayrou@icloud.com)
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Politique de confidentialité - MemoTrail</title>
+    <style>
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+            background: #0a0a1a;
+            color: white;
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 40px 20px;
+            line-height: 1.6;
+        }
+        h1 { color: #00d4ff; margin-bottom: 30px; }
+        h2 { color: #b266ff; margin-top: 30px; }
+        a { color: #00d4ff; }
+    </style>
+</head>
+<body>
+    <h1>🔒 Politique de confidentialité</h1>
+    <p><em>Dernière mise à jour : Décembre 2024</em></p>
+    
+    <h2>Introduction</h2>
+    <p>MemoTrail respecte votre vie privée. Cette politique explique comment nous traitons vos données.</p>
+    
+    <h2>Données collectées</h2>
+    <p>MemoTrail ne collecte <strong>aucune donnée personnelle</strong>. Toutes vos données de jeu (progression, scores, préférences) sont stockées <strong>localement sur votre appareil</strong>.</p>
+    
+    <h2>Game Center</h2>
+    <p>Si vous utilisez Game Center, vos scores sont partagés via les services Apple. Consultez la <a href="https://www.apple.com/legal/privacy/">politique de confidentialité d'Apple</a>.</p>
+    
+    <h2>Achats in-app</h2>
+    <p>Les achats sont traités par Apple. Nous n'avons pas accès à vos informations de paiement.</p>
+    
+    <h2>Publicités</h2>
+    <p>MemoTrail ne contient <strong>aucune publicité</strong>.</p>
+    
+    <h2>Contact</h2>
+    <p>Pour toute question : <a href="mailto:votre-email@example.com">votre-email@example.com</a></p>
+    
+    <p style="margin-top: 40px;"><a href="index.html">← Retour à l'accueil</a></p>
+</body>
+</html>
