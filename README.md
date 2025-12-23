@@ -1,46 +1,37 @@
-<!DOCTYPE html>
-<html lang="fr">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Politique de confidentialité - MemoTrail</title>
-    <style>
-        body {
-            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
-            background: #0a0a1a;
-            color: white;
-            max-width: 800px;
-            margin: 0 auto;
-            padding: 40px 20px;
-            line-height: 1.6;
-        }
-        h1 { color: #00d4ff; margin-bottom: 30px; }
-        h2 { color: #b266ff; margin-top: 30px; }
-        a { color: #00d4ff; }
-    </style>
-</head>
-<body>
-    <h1>🔒 Politique de confidentialité</h1>
-    <p><em>Dernière mise à jour : Décembre 2024</em></p>
-    
-    <h2>Introduction</h2>
-    <p>MemoTrail respecte votre vie privée. Cette politique explique comment nous traitons vos données.</p>
-    
-    <h2>Données collectées</h2>
-    <p>MemoTrail ne collecte <strong>aucune donnée personnelle</strong>. Toutes vos données de jeu (progression, scores, préférences) sont stockées <strong>localement sur votre appareil</strong>.</p>
-    
-    <h2>Game Center</h2>
-    <p>Si vous utilisez Game Center, vos scores sont partagés via les services Apple. Consultez la <a href="https://www.apple.com/legal/privacy/">politique de confidentialité d'Apple</a>.</p>
-    
-    <h2>Achats in-app</h2>
-    <p>Les achats sont traités par Apple. Nous n'avons pas accès à vos informations de paiement.</p>
-    
-    <h2>Publicités</h2>
-    <p>MemoTrail ne contient <strong>aucune publicité</strong>.</p>
-    
-    <h2>Contact</h2>
-    <p>Pour toute question : <a href="mailto:votre-email@example.com">votre-email@example.com</a></p>
-    
-    <p style="margin-top: 40px;"><a href="index.html">← Retour à l'accueil</a></p>
-</body>
-</html>
+# Politique de confidentialité – Minibar
+
+La présente politique de confidentialité décrit la manière dont l’application **Gestion Minibar** traite les données.
+
+### 1. Collecte de données
+
+L’application **Gestion Minibar** ne collecte, ne stocke et ne transmet aucune donnée personnelle identifiable des utilisateurs.
+
+Aucune information telle que le nom, l’adresse e-mail, le numéro de téléphone ou la localisation n’est collectée à des fins commerciales ou analytiques.
+
+### 2. Utilisation des fonctionnalités
+
+L’application peut utiliser certaines fonctionnalités de l’appareil (comme la caméra) uniquement dans le cadre de son fonctionnement opérationnel.
+
+Ces fonctionnalités ne donnent lieu à aucune collecte, enregistrement ou transmission de données personnelles.
+
+### 3. Stockage des données
+
+Les informations saisies dans l’application sont utilisées exclusivement à des fins opérationnelles et restent limitées à l’usage prévu de l’application.
+
+Aucune donnée n’est partagée avec des tiers.
+
+### 4. Services tiers
+
+L’application **Minibar** n’intègre aucun service tiers de suivi, d’analyse ou de publicité.
+
+### 5. Sécurité
+
+Aucune donnée personnelle n’étant collectée, aucun traitement spécifique de sécurisation des données personnelles n’est nécessaire.
+
+### 6. Modifications
+
+Cette politique de confidentialité peut être mise à jour afin de refléter des évolutions fonctionnelles de l’application.
+
+### 7. Contact
+
+Pour toute question concernant cette politique de confidentialité, veuillez contacter l’administrateur de l’application au sein de votre établissement.
