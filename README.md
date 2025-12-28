@@ -1,27 +1,27 @@
-**Politique de confidentialité – MemoTrail**
+**Privacy Policy – MemoTrail**
 
-La présente politique de confidentialité décrit la manière dont l’application MemoTrail traite les données.
+This privacy policy describes how the MemoTrail application handles data.
 
-**1. Collecte de données**  
-L’application MemoTrail ne collecte, ne stocke et ne transmet aucune donnée personnelle identifiable des utilisateurs.  
-Aucune information telle que le nom, l’adresse e-mail, le numéro de téléphone ou la localisation n’est collectée à des fins commerciales ou analytiques.
+**1. Data Collection**  
+The MemoTrail application does not collect, store, or transmit any personally identifiable user data.  
+No information such as name, email address, phone number, or location is collected for commercial or analytical purposes.
 
-**2. Utilisation des fonctionnalités**  
-L’application peut utiliser certaines fonctionnalités de l’appareil (comme la caméra) uniquement dans le cadre de son fonctionnement opérationnel.  
-Ces fonctionnalités ne donnent lieu à aucune collecte, enregistrement ou transmission de données personnelles.
+**2. Use of Device Features**  
+The application may use certain device features (such as the camera) solely for operational functionality.  
+These features do not result in the collection, storage, or transmission of personal data.
 
-**3. Stockage des données**  
-Les informations saisies dans l’application sont utilisées exclusivement à des fins opérationnelles et restent limitées à l’usage prévu de l’application.  
-Aucune donnée n’est partagée avec des tiers.
+**3. Data Storage**  
+Information entered into the application is used exclusively for operational purposes and remains limited to the intended use of the application.  
+No data is shared with third parties.
 
-**4. Services tiers**  
-L’application MemoTrail n’intègre aucun service tiers de suivi, d’analyse ou de publicité.
+**4. Third-Party Services**  
+MemoTrail does not integrate any third-party tracking, analytics, or advertising services.
 
-**5. Sécurité**  
-Aucune donnée personnelle n’étant collectée, aucun traitement spécifique de sécurisation des données personnelles n’est nécessaire.
+**5. Security**  
+As no personal data is collected, no specific personal data security measures are required.
 
-**6. Modifications**  
-Cette politique de confidentialité peut être mise à jour afin de refléter des évolutions fonctionnelles de l’application.
+**6. Changes**  
+This privacy policy may be updated to reflect functional changes to the application.
 
 **7. Contact**  
-Pour toute question concernant cette politique de confidentialité, veuillez contacter l’administrateur de l’application.
+For any questions regarding this privacy policy, please contact the application administrator.
